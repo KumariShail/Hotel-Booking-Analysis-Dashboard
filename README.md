@@ -1,4 +1,4 @@
-🏨 Hotel Booking Analysis Dashboard | Microsoft Excel
+##🏨 Hotel Booking Analysis Dashboard | Microsoft Excel
 
 <p align="center">
   <strong>Exploring Hotel Booking Trends and Cancellation Patterns with Excel</strong>
@@ -8,11 +8,9 @@
 
 📊 Dashboard Preview
 
-<!-- IMPORTANT: Upload your screenshot to the images folder in this repository.
-     Name the image dashboard.png.
-     Then this image will appear below automatically. --><p align="center">
-  <img src="images/dashboard.png" alt="Hotel Booking Analysis Dashboard" width="100%">
-</p>---
+<p align="center">
+  <img src="./hotel_booking_dashboard.png" alt="Hotel Booking Dashboard" width="100%">
+</p>
 
 📌 Project Overview
 
