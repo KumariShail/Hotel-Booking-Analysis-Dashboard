@@ -1,4 +1,4 @@
-#🏨 Hotel Booking Analysis Dashboard | Microsoft Excel
+🏨 Hotel Booking Analysis Dashboard | Microsoft Excel
 
 <p align="center">
   <strong>Exploring Hotel Booking Trends and Cancellation Patterns with Excel</strong>
@@ -6,13 +6,13 @@
   An interactive Excel dashboard designed to explore hotel booking data, visualize trends, and present key metrics in a clear and meaningful way.
 </p>---
 
-##📊 Dashboard Preview
+📊 Dashboard Preview
 
 <p align="center">
   <img src="./hotel_booking_dashboard.png" alt="Hotel Booking Dashboard" width="100%">
-</p>
+</p>---
 
-##📌 Project Overview
+📌 Project Overview
 
 This project focuses on exploring hotel booking data and presenting important booking metrics through an interactive dashboard built using Microsoft Excel.
 
@@ -20,7 +20,7 @@ The dashboard brings together key performance indicators (KPIs), charts, and int
 
 The project was developed as part of my hands-on learning journey in Data Analytics.
 
-##🎯 Project Objectives
+🎯 Project Objectives
 
 - Explore hotel booking and cancellation patterns.
 - Compare booking distribution across hotel types.
@@ -29,7 +29,7 @@ The project was developed as part of my hands-on learning journey in Data Analyt
 - Practice interactive data exploration using Excel slicers.
 - Improve data visualization and dashboard design skills.
 
-##🛠️ Tools and Features Used
+🛠️ Tools and Features Used
 
 - Microsoft Excel — Data analysis and dashboard creation.
 - PivotTables — Summarizing and organizing booking data.
@@ -38,7 +38,7 @@ The project was developed as part of my hands-on learning journey in Data Analyt
 - Excel Formulas — Supporting calculations and analysis.
 - KPI Cards — Highlighting important metrics.
 
-##📈 Key Areas Explored
+📈 Key Areas Explored
 
 1. Booking Overview
 
@@ -66,20 +66,20 @@ Exploring desired and undesired room assignment patterns.
 
 The findings should be interpreted using the actual data and verified dashboard calculations.
 
-##⚙️ Interactive Features
+⚙️ Interactive Features
 
 The dashboard uses Excel slicers to let users filter the data and explore different booking categories.
 
 PivotTables and PivotCharts help summarize and visualize the selected data.
 
-##📂 Project Files
+📂 Project Files
 
 File| Description
 "Hotel_Booking_Analysis_Dashboard.xlsx"| Excel workbook containing the dashboard
-"images/dashboard.png"| Dashboard screenshot and preview
+"hotel_booking_dashboard.png"| Dashboard screenshot and preview
 "README.md"| Project documentation
 
-##🚀 How to Explore This Project
+🚀 How to Explore This Project
 
 1. Open the Excel workbook from this repository.
 2. Download the file if prompted.
@@ -90,7 +90,7 @@ File| Description
 
 Note: Interactive slicers work in the Excel workbook; the screenshot displayed on this page is only a static preview.
 
-##📚 What I Learned
+📚 What I Learned
 
 Through this project, I practiced:
 
@@ -103,16 +103,16 @@ Through this project, I practiced:
 
 A tutorial helped me get started with the dashboard, and I practiced adapting its design and components as I learned Excel dashboard techniques.
 
-##🔮 Future Improvements
+🔮 Future Improvements
 
 - Add more detailed booking and cancellation metrics.
 - Improve dashboard formatting and readability.
 - Explore additional trends and relationships in the data.
 - Practice writing clearer, data-backed business insights.
 
-##👩‍💻 About This Project
+👩‍💻 About This Project
 
-This project is part of my ongoing journey toward becoming a Data Analyst. I am continuing to develop my skills in Excel, SQL, Python, and data visualization through hands-on projects.
+This project is part of my ongoing journey toward becoming a Data Analyst. I am continuing to develop my skills in Excel, SQL, and data visualization through hands-on projects.
 
 ---
 
